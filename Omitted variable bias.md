@@ -1,0 +1,1 @@
+A better way to state that correlation equals causation bias is the omitted variable bias, a variable that is unknown or omitted is actually resulting in the association between two observed variables
