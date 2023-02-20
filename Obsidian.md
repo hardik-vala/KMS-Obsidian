@@ -19,4 +19,3 @@ https://obsidian.md/
 
 * [Obsidian for Beginners](https://www.youtube.com/watch?v=bBk2kg8Gm_U&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd&index=1)
 * [Obsidian Publish — The World is Your Oyster | Linking Your Thinking](https://www.youtube.com/watch?v=1pf6aj3Uwuk)
-* 
