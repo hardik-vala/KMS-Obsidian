@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "359a1077d2569cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bf02b2029320ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Omitted variable bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Omitted variable bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Omitted variable bias.md"
               }
             }
           }
@@ -169,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78bf02b2029320ba",
+  "active": "2df3d7c37d9f50b6",
   "lastOpenFiles": [
-    "Gall's Law.md",
     "Obsidian.md",
+    "Gall's Law.md",
     "Omitted variable bias.md"
   ]
 }
