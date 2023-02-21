@@ -15,7 +15,7 @@ Keep each type of person in their lane when gathering their input.
 
 Don't be in stealth mode, it hurts your ability to get input, and there's a history of companies that do miserably because they were isolated from feedback during development
 
-Apply the “6-week rule”: If you get to 6 weeks with an idea and you don’t think its stupid, its a sign it has long-term potential
+Apply the “6-week rule”: If you get to 6 weeks with an idea and you don’t think its stupid, its a sign it has long-term potential. This is a rough heuristic. Ultimately, decide on the failure condition before exploring an idea and try to trigger it before 6 weeks are up.
 
 ## Evaluation
 

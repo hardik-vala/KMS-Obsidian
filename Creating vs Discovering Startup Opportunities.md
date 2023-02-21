@@ -1,0 +1,1 @@
+You can't force the creation of an opportunity in startup land, you can only discover it.

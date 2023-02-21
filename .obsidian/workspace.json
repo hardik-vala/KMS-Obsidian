@@ -11,11 +11,28 @@
             "id": "2df3d7c37d9f50b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Startups/Vetting a startup idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52e938a6738e188c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating vs Discovering Startup Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Creating vs Discovering Startup Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Creating vs Discovering Startup Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Creating vs Discovering Startup Opportunities.md"
+              }
             }
           }
         ]
@@ -137,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee7cce56b1857dcd",
+  "active": "52e938a6738e188c",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "Untitled.md",
     "Startups/Vetting a startup idea.md",
+    "Creating vs Discovering Startup Opportunities.md",
+    "Obsidian.md",
     "Omitted variable bias.md",
     "Startups/Finding a startup idea.md",
     "Startups/Finding a good startup idea.md",
