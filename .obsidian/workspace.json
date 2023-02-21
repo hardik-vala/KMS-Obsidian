@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Finding a good startup idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaf734b005dc9a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finding a good startup idea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Finding a good startup idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Finding a good startup idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Finding a good startup idea.md"
               }
             }
           }
@@ -169,8 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3676a534bf467c8",
+  "active": "eaf734b005dc9a2e",
   "lastOpenFiles": [
+    "Startups don't invent, they innovate.md",
+    "Finding a good startup idea.md",
     "Vetting ideas for a Startup.md",
     "Omitted variable bias.md",
     "Obsidian.md",
