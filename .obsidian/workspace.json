@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omitted variable bias.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omitted variable bias.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omitted variable bias.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omitted variable bias.md"
+                "file": "Startups/Vetting a startup idea.md"
               }
             }
           }
@@ -145,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51e20b2f7239c1d6",
+  "active": "2df3d7c37d9f50b6",
   "lastOpenFiles": [
+    "Omitted variable bias.md",
     "Startups/Vetting a startup idea.md",
     "Startups/Finding a startup idea.md",
     "Startups/Finding a good startup idea.md",
     "Startups/Startups don't invent, they innovate.md",
-    "Omitted variable bias.md",
     "Obsidian.md",
     "Gall's Law.md"
   ]
