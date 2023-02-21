@@ -18,3 +18,7 @@ Apply the “6-week rule”: If you get to 6 weeks with an idea and you don’t 
 * Market : Is there a market for the idea
 * Momentum : Is the wind blowing in the direction of the market or problem
 * Motivation : Are you motivated to work on the problem? You need to be motivated to fight the inevitable upstream battles
+
+## Risks
+
+* Target one idea-problem pairing at a time. 

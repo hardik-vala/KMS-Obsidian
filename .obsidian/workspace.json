@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vetting a startup idea.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finding a startup idea.md",
+                "file": "Startups/Finding a startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vetting a startup idea.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Finding a good startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Finding a good startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Finding a good startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finding a good startup idea.md",
+                "file": "Startups/Vetting a startup idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finding a good startup idea.md"
+                "file": "Startups/Vetting a startup idea.md"
               }
             }
           }
@@ -231,10 +231,10 @@
   },
   "active": "761012aa39ff5c1a",
   "lastOpenFiles": [
-    "Finding a startup idea.md",
-    "Finding a good startup idea.md",
-    "Vetting a startup idea.md",
-    "Startups don't invent, they innovate.md",
+    "Startups/Finding a good startup idea.md",
+    "Startups/Finding a startup idea.md",
+    "Startups/Vetting a startup idea.md",
+    "Startups/Startups don't invent, they innovate.md",
     "Omitted variable bias.md",
     "Obsidian.md",
     "Gall's Law.md"
