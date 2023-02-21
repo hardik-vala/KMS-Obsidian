@@ -7,7 +7,11 @@ Eliminate bad ideas rather than testing whether an idea possesses the traits of 
 You vet by conducting loads of research. Includes desk research, user interviews, talking to experts, etc.
 
 Like science, you're trying to invalidate the idea through a series of stress tests with a range of opinions and user feedback. Types of input:
-* Experts: Know about historical truths 
+* Experts: Know about historical truths. (Backward-looking but their not innovators so take their feedback about future potential with a grain of salt.)
+* Users: Know about their experiences.
+* Founders: Know about how to be a founder.
+* Investors: Know about industry and startup patterns.
+Keep each type of person in their lane when gathering their input.
 
 Don't be in stealth mode, it hurts your ability to get input, and there's a history of companies that do miserably because they were isolated from feedback during development
 
