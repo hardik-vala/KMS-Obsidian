@@ -31,3 +31,7 @@ Apply the “6-week rule”: If you get to 6 weeks with an idea and you don’t 
 	* Confirmation bias: Common sense is an ideal antidote.
 	* Rarely can you be a renegade when everybody else is poo poo-ing your idea.
 	* Bias is everywhere so constantly be aware and guard against it.
+
+## References
+
+* [Xoogler.co: Steps to starting a company after being laid off with Jon Sadow](https://www.youtube.com/watch?v=hNp18V-LCpc)
