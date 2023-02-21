@@ -18,93 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd3a400d7d7a71eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Vetting a startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3676a534bf467c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Finding a startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf734b005dc9a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Vetting a startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d79bfcbe5e380aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Finding a good startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518c9dfedd58d4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Finding a good startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd56c38b74eced93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Finding a good startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "761012aa39ff5c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Vetting a startup idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startups/Vetting a startup idea.md",
+                "file": "Omitted variable bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startups/Vetting a startup idea.md",
+                "file": "Omitted variable bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Startups/Vetting a startup idea.md"
+                "file": "Omitted variable bias.md"
               }
             }
           }
@@ -218,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "761012aa39ff5c1a",
+  "active": "51e20b2f7239c1d6",
   "lastOpenFiles": [
+    "Startups/Vetting a startup idea.md",
     "Startups/Finding a startup idea.md",
     "Startups/Finding a good startup idea.md",
-    "Startups/Vetting a startup idea.md",
     "Startups/Startups don't invent, they innovate.md",
     "Omitted variable bias.md",
     "Obsidian.md",
