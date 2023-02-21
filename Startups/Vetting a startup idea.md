@@ -21,4 +21,4 @@ Apply the “6-week rule”: If you get to 6 weeks with an idea and you don’t 
 
 ## Risks
 
-* Target one idea-problem pairing at a time. 
+* Target one idea-problem pairing at a time. Vetting requires going deep and you can only go deep by being immersed in the problem niche. It's better to aggressively target a single focus and drive to a yes/no decision as soon as possible. This is opposed to splintering research and/or trying to build a broad, horizontal product aiming to serve multiple use cases.
