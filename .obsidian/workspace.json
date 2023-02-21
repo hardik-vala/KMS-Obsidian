@@ -11,12 +11,8 @@
             "id": "2df3d7c37d9f50b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startups/Vetting a startup idea.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startups/Vetting a startup idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startups/Vetting a startup idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Startups/Vetting a startup idea.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +137,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2df3d7c37d9f50b6",
+  "active": "ee7cce56b1857dcd",
   "lastOpenFiles": [
-    "Omitted variable bias.md",
+    "Obsidian.md",
+    "Untitled.md",
     "Startups/Vetting a startup idea.md",
+    "Omitted variable bias.md",
     "Startups/Finding a startup idea.md",
     "Startups/Finding a good startup idea.md",
     "Startups/Startups don't invent, they innovate.md",
-    "Obsidian.md",
     "Gall's Law.md"
   ]
 }
