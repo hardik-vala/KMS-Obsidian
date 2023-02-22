@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e32ea0b0c03f5f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Say-Do Gap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modus Vivendi.md",
+                "file": "Say-Do Gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modus Vivendi.md",
+                "file": "Say-Do Gap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modus Vivendi.md"
+                "file": "Say-Do Gap.md"
               }
             }
           }
@@ -170,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f83a65f349cf94",
+  "active": "e32ea0b0c03f5f6d",
   "lastOpenFiles": [
+    "Modus Vivendi.md",
     "Startups/Creating vs Discovering Startup Opportunities.md",
     "Startups/Vetting a startup idea.md",
     "Obsidian.md",
