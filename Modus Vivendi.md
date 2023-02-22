@@ -1,0 +1,1 @@
+An arrangement or agreement allowing conflicting parties to coexist peacefully, either indefinitely or until a final settlement is reached: "the two states have with difficulty reached a modus vivendi, though hardly friendship"

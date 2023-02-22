@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating vs Discovering Startup Opportunities.md",
+                "file": "Startups/Creating vs Discovering Startup Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f83a65f349cf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modus Vivendi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating vs Discovering Startup Opportunities.md",
+                "file": "Modus Vivendi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating vs Discovering Startup Opportunities.md",
+                "file": "Modus Vivendi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating vs Discovering Startup Opportunities.md"
+                "file": "Modus Vivendi.md"
               }
             }
           }
@@ -158,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52e938a6738e188c",
+  "active": "94f83a65f349cf94",
   "lastOpenFiles": [
+    "Startups/Creating vs Discovering Startup Opportunities.md",
     "Startups/Vetting a startup idea.md",
-    "Creating vs Discovering Startup Opportunities.md",
     "Obsidian.md",
     "Omitted variable bias.md",
     "Startups/Finding a startup idea.md",
