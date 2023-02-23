@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dee9aee5ea8d87b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Say-Do Gap.md",
+                "file": "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Say-Do Gap.md",
+                "file": "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Say-Do Gap.md"
+                "file": "Wanting more doesn’t mean you shouldn’t be happy with what you have.md"
               }
             }
           }
@@ -182,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e32ea0b0c03f5f6d",
+  "active": "dee9aee5ea8d87b2",
   "lastOpenFiles": [
+    "Say-Do Gap.md",
     "Modus Vivendi.md",
     "Startups/Creating vs Discovering Startup Opportunities.md",
     "Startups/Vetting a startup idea.md",
