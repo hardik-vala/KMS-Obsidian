@@ -1,0 +1,1 @@
+[[Linear Progress-Effort]] : For simple, mindless, repetitive tasks, effort and reward tend to have a linear relationship.
