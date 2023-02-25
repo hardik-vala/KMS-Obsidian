@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff415e8ab3d3630c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inverted Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress-Effort Curves.md",
+                "file": "Inverted Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress-Effort Curves.md",
+                "file": "Inverted Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress-Effort Curves.md"
+                "file": "Inverted Curve.md"
               }
             }
           }
@@ -230,10 +242,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d6759a95a36b398",
+  "active": "ff415e8ab3d3630c",
   "lastOpenFiles": [
-    "Diminishing Returns.md",
     "Progress-Effort Curves.md",
+    "Inverted Curve.md",
+    "Diminishing Returns.md",
     "Linear Progress-Effort.md",
     "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
     "Say-Do Gap.md",
