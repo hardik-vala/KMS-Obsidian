@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c96bf2ecff7e9dd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c96bf2ecff7e9dd",
+  "active": "dee9aee5ea8d87b2",
   "lastOpenFiles": [
     "Say-Do Gap.md",
     "Modus Vivendi.md",
