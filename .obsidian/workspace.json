@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverted Curve.md",
+                "file": "Inverted Parabola.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Inverted Parabola.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Inverted Parabola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Inverted Parabola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improving the Mind.md"
+                "file": "Inverted Parabola.md"
               }
             }
           }
@@ -256,8 +256,8 @@
   },
   "active": "ab019b85693299d4",
   "lastOpenFiles": [
-    "Inverted Curve.md",
     "Improving the Mind.md",
+    "Inverted Parabola.md",
     "Progress-Effort Curves.md",
     "Diminishing Returns.md",
     "Linear Progress-Effort.md",
