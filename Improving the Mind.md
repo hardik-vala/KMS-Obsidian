@@ -1,0 +1,1 @@
+* Most things in life actually don’t exist on a [[Linear Progress-Effort]] curve. The linear curve doesn’t work for life because most of life’s activities aren’t simple. They're not rote or repetitive or mindless, they are actually complex and emotionally or psychologically demanding. You adapt and evolve and circumstances change, and this is what makes life so complicated.

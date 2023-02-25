@@ -3,3 +3,7 @@
 * A classic example here is productivity working for two hours is probably going to be twice as productive as working for one. Working for four might be twice as productive as working for eight, but probably not. And working for sixteen hours is definitely not twice as productive as working for eight.
 * The concept of diminishing returns applies for experiences that are complex and novel.
 * Think of the number of showers you take in a day, the number of chicken wings you eat for lunch, the number of times you have sex in a week.
+
+## References
+
+* [How to Get What You Want By Letting Go (The Backwards Law)](https://www.youtube.com/watch?v=MF7RzKFMuT4)
