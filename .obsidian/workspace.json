@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diminishing Returns.md",
+                "file": "Progress-Effort Curves.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diminishing Returns.md",
+                "file": "Progress-Effort Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diminishing Returns.md",
+                "file": "Progress-Effort Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diminishing Returns.md"
+                "file": "Progress-Effort Curves.md"
               }
             }
           }
@@ -232,8 +232,8 @@
   },
   "active": "9d6759a95a36b398",
   "lastOpenFiles": [
-    "Progress-Effort Curves.md",
     "Diminishing Returns.md",
+    "Progress-Effort Curves.md",
     "Linear Progress-Effort.md",
     "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
     "Say-Do Gap.md",
