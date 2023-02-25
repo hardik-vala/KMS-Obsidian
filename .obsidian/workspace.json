@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverted Parabola.md",
+                "file": "Improving the Mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverted Parabola.md",
+                "file": "Improving the Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inverted Parabola.md",
+                "file": "Improving the Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inverted Parabola.md"
+                "file": "Improving the Mind.md"
               }
             }
           }
@@ -256,9 +256,9 @@
   },
   "active": "ab019b85693299d4",
   "lastOpenFiles": [
-    "Improving the Mind.md",
-    "Inverted Parabola.md",
     "Progress-Effort Curves.md",
+    "Inverted Parabola.md",
+    "Improving the Mind.md",
     "Diminishing Returns.md",
     "Linear Progress-Effort.md",
     "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
