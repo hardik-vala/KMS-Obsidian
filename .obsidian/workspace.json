@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Modus Vivendi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddbf097b071aa92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leaky Abstraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Leaky Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improving the Mind.md",
+                "file": "Leaky Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improving the Mind.md"
+                "file": "Leaky Abstraction.md"
               }
             }
           }
@@ -254,16 +266,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab019b85693299d4",
+  "active": "ddbf097b071aa92d",
   "lastOpenFiles": [
+    "Modus Vivendi.md",
+    "Leaky Abstraction.md",
+    "Improving the Mind.md",
     "Inverted Parabola.md",
     "Progress-Effort Curves.md",
-    "Improving the Mind.md",
     "Diminishing Returns.md",
     "Linear Progress-Effort.md",
     "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
     "Say-Do Gap.md",
-    "Modus Vivendi.md",
     "Startups/Creating vs Discovering Startup Opportunities.md",
     "Startups/Vetting a startup idea.md",
     "Obsidian.md",
