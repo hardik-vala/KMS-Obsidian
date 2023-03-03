@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leaky Abstraction.md",
+                "file": "Startups/Vetting a startup idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021203a5aac54ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startups/Viable painpoint.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leaky Abstraction.md",
+                "file": "Startups/Viable painpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leaky Abstraction.md",
+                "file": "Startups/Viable painpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leaky Abstraction.md"
+                "file": "Startups/Viable painpoint.md"
               }
             }
           }
@@ -266,10 +278,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddbf097b071aa92d",
+  "active": "021203a5aac54ef8",
   "lastOpenFiles": [
-    "Modus Vivendi.md",
+    "Startups/Vetting a startup idea.md",
+    "Startups/Viable painpoint.md",
     "Leaky Abstraction.md",
+    "Modus Vivendi.md",
     "Improving the Mind.md",
     "Inverted Parabola.md",
     "Progress-Effort Curves.md",
@@ -278,7 +292,6 @@
     "Wanting more doesn’t mean you shouldn’t be happy with what you have.md",
     "Say-Do Gap.md",
     "Startups/Creating vs Discovering Startup Opportunities.md",
-    "Startups/Vetting a startup idea.md",
     "Obsidian.md",
     "Omitted variable bias.md",
     "Startups/Finding a startup idea.md",
